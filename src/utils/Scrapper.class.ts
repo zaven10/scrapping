@@ -107,7 +107,6 @@ export class Scrapper {
         transform: this._transform,
         filter: this._filter,
         stackAllItems: false,
-        countLimit: 2,
       },
     });
 
